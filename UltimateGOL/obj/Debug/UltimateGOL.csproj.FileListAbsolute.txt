@@ -1,0 +1,9 @@
+F:\UltimateGOL\UltimateGOL\obj\Debug\UltimateGOL.csprojResolveAssemblyReference.cache
+F:\UltimateGOL\UltimateGOL\obj\Debug\RLForm.Form1.resources
+F:\UltimateGOL\UltimateGOL\obj\Debug\UltimateGOL.csproj.GenerateResource.Cache
+F:\UltimateGOL\UltimateGOL\bin\Debug\UltimateGOL.exe.config
+F:\UltimateGOL\UltimateGOL\bin\Debug\UltimateGOL.exe
+F:\UltimateGOL\UltimateGOL\bin\Debug\UltimateGOL.pdb
+F:\UltimateGOL\UltimateGOL\obj\Debug\UltimateGOL.Properties.Resources.resources
+F:\UltimateGOL\UltimateGOL\obj\Debug\UltimateGOL.exe
+F:\UltimateGOL\UltimateGOL\obj\Debug\UltimateGOL.pdb
